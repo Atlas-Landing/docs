@@ -1,0 +1,38 @@
+{
+  "2023-12-25": {
+    "open": false
+  },
+  "Monday": {
+    "open": true,
+    "openTime": "3:00PM",
+    "closeTime": "10:00PM"
+  },
+   "Tuesday": {
+    "open": true,
+    "openTime": "3:00PM",
+    "closeTime": "10:00PM"
+  },
+   "Wednesday": {
+    "open": true,
+    "openTime": "3:00PM",
+    "closeTime": "10:00PM"
+  },
+   "Thursday": {
+    "open": true,
+    "openTime": "3:00PM",
+    "closeTime": "10:00PM"
+  },
+   "Friday": {
+    "open": true,
+    "openTime": "4:00PM",
+    "closeTime": "12:00AM"
+  },
+   "Saturday": {
+    "open": true,
+    "openTime": "4:00PM",
+    "closeTime": "12:00AM"
+  },
+   "Sunday": {
+    "open": false
+  }
+}
